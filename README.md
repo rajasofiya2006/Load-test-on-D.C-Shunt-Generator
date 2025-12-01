@@ -1,7 +1,11 @@
 # Load-test-on-D.C-Shunt-Generator
 
+Sofiya. R (212223210029)
+
+
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
+
 Apparatus Required:
 Sl .no apparatus range type quantity
 1 Volt meter (0-300)V MC 1
@@ -15,6 +19,7 @@ Load test
 125 % of rated current (full load current)
 
 <img width="655" height="306" alt="image" src="https://github.com/user-attachments/assets/d8f1b1f3-d164-43e0-8bde-f33b9412eae0" />
+
 Precautions
 1. Motor side field rheostat should be kept at minimum resistance position.
 2. Generator side field rheostat should be kept at maximum resistance position.
@@ -35,9 +40,15 @@ by closing the DPST switch 2.
 initial position
 
 Tabular Column:
-<img width="509" height="371" alt="image" src="https://github.com/user-attachments/assets/1641b4c7-3683-4920-b857-5ef394c51cff" />
+<img width="1790" height="1077" alt="Screenshot 2025-11-28 234727" src="https://github.com/user-attachments/assets/d9db5c06-112f-4177-b26a-5fe5c3b0c3c0" />
+
+
+
 
 Model graph:
 <img width="399" height="182" alt="image" src="https://github.com/user-attachments/assets/05d45b14-c35d-4f16-a08a-58b263da9b84" />
+<img width="1857" height="711" alt="Screenshot 2025-11-28 234816" src="https://github.com/user-attachments/assets/4b68e0c2-747e-47c6-aeed-d2c2ae4e1ac6" />
 
 Result:
+
+Thus the characteristics of DC shunt Generators are analysed and load characteristics are verified.
